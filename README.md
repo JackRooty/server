@@ -7,3 +7,5 @@
 3. Helm chart that deploy an application to a cluster ./helm/server
 
 4. run.sh bash script for build, publish and deploy ( should run from repo dir )
+
+6. Read file Monitoring.md 
