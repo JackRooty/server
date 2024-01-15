@@ -1,0 +1,6 @@
+apiVersion: v2
+name: server
+description: A Helm chart for Kubernetes deploy simple HTTP server on go
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
