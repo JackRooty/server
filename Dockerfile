@@ -13,7 +13,6 @@ WORKDIR /dist
 RUN cp /build/serverHTTP .
 
 
-
 FROM scratch
 COPY --from=builder /dist/serverHTTP /
 EXPOSE 8080
